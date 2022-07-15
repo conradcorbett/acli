@@ -1,2 +1,1 @@
-# acli
-# more text from command line
+Collection of scripts that use ACLI to automate basic Nutanix tasks
