@@ -1,5 +1,5 @@
 #copy paste below on CVM to create an AHV disk image and VM
-#more testing
+
 cat > $HOME/tmp/CC_createvm.sh <<EOF
 #!/bin/bash
 
