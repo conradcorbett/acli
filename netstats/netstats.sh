@@ -1,6 +1,7 @@
 #!/bin/bash
 
-#script will output transmitted and received Mbps
+#script will output transmitted and received Mbps on AHV host
+#run the script directly on the AHV host from /root directory
 
 INTERVAL="1"  # update interval in seconds
 if [ -z "$1" ]; then
